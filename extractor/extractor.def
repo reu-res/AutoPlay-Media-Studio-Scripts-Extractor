@@ -1,0 +1,3 @@
+LIBRARY extractor
+EXPORTS
+	fake_luaL_loadbuffer
